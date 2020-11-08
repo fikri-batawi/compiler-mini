@@ -1,0 +1,8 @@
+Python
+print ( " Hello World " )
+
+CPP
+cout << " Hello World "
+
+JS
+console . log ( " Hello World " )
